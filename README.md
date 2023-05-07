@@ -37,7 +37,7 @@
     <br/>Copy <code>https://comfy-themes.github.io/Discord/betterdiscord/comfy.theme.css</code> into the box in Settings > Themes > Themes tab </p>
 </div><br/>
 
-## 🖌️ Customization
+## 🖌Customization
 
 <br/>
 <div align="left">
